@@ -1,6 +1,6 @@
 # Register-Login-and-Database-in-firebase
 
-## Adding video of this app
+## Here's the demo of this app
 https://github.com/VarunaBansod/Register-Login-and-Database-in-firebase/assets/65997106/0f5186c7-7fbe-4861-81bb-6e038cee8dda
 
 ### Images of FireBase
